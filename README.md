@@ -1,1 +1,3 @@
 # simpleFiveInARowGame
+
+vue制作的简单的五子棋游戏,这是客户端的代码,服务端代码在simpleFiveInARowGameServer
